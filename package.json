@@ -1,0 +1,19 @@
+{
+  "name": "sucky",
+  "version": "1.0.0",
+  "description": "build your own at [sucky.design](https://suckydesign.org/build)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bharxhav/sucky.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bharxhav/sucky/issues"
+  },
+  "homepage": "https://github.com/bharxhav/sucky#readme"
+}
